@@ -19,4 +19,4 @@ The app was built in Java, using Android Studio. It uses the device's location a
 ### How does the app know the capacity levels at each hospital?
 The app currently does not update the capacities of each hospital in real-time. This feature can be added in the future if there is a centralized database with all the hospitals' capacities in a city.
 
-For the purposes of this demo, I added 4 Montreal to [Hospital.java](https://github.com/AlySaleh1/Hospital-Finder-App/blob/master/app/src/main/java/com/example/hospitalfinder/Hospital.java)
+For the purposes of this demo, I added 4 Montreal hospitals to [Hospital.java](https://github.com/AlySaleh1/Hospital-Finder-App/blob/master/app/src/main/java/com/example/hospitalfinder/Hospital.java)
